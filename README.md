@@ -12,9 +12,9 @@ ii. Prepare the data for the algorithm.
 iii.Define the Model. 
 iv. Train the model and get the results.
 
-You can Download the DataSet from the link below:
+#  You can Download the DataSet from the link below:
 https://www.kaggle.com/c/dogs-vs-cats/data
 
-Understanding link:
+#  Understanding link:
 https://www.datasciencecentral.com/profiles/blogs/dogs-vs-cats-image-classification-with-deep-learning-using
 
